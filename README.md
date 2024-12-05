@@ -29,6 +29,18 @@
 
 <hr>
 
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaik-fathima/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-fathima" height="30" width="40" />
+  </a>
+  <a href="https://github.com/SkFathima" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SkFathima" height="30" width="40" />
+  </a>
+</p>
+
+<hr>
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SkFathima&show_icons=true&theme=radical" alt="GitHub Stats" />
