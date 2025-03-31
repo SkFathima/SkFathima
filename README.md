@@ -7,7 +7,7 @@
     <br>
     🌱 Currently focusing on Full Stack Development and AI/ML to build cutting-edge applications.  
     <br>
-    💡 Fun Fact About Me: I’m a self-taught coder and enjoy learning new programming languages.
+    💡 I’m a self-taught coder and enjoy learning new programming languages.
 </p>
 
 <hr>
